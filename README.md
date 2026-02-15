@@ -13,6 +13,6 @@ Uma ferramenta de fácil utilização para visualização de informações relev
 ## ⚙️ Como Utilizar
 
 1. Faça o download do arquivo `Criando um Dashboard de Vendas do Xbox com Excel.xlsx` (ou abra no Google Sheets).
-2. Em construção
+2. Na aba Dashboard é possível visualizar os Big Numbers, de total de vendas do EA Play Pass e Minecraft Season Pass. O gráfico de total de vendas de cada assinaturas divididos entre assinaturas com e sem renovação, e o gráfico de número total de assinaturas ativas por plano. Todas as funções com filtro de visualização por tipo de assinatura (Mensal, Quadrimestral e Anual)
 ---
 ⭐ *Se este simulador te ajudou a reunir suas informações para Declaração de Imposto de Renda, dê uma estrela no repositório!*
